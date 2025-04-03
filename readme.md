@@ -4,6 +4,9 @@ This template adheres to the following guidelines: [Gestaltungshinweise zu Absch
 
 The main purpose of this template is to create a cover page with all mandatory information, as well as follow the numeration guidelines and so forth. The template in `main.typ` also gives you a head start into your thesis, by recommending packages and a structure. 
 
+> [!TIP]
+> You can generate an English and a German cover page by simply renaming the parameter from `cover-english` to `cover-german`.
+
 > [!WARNING]
 > This theme is **NOT** affiliated with the University of Jena. The logo and the fonts are the property of the University of Jena.
 
