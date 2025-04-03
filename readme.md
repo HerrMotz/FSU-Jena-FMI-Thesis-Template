@@ -1,4 +1,4 @@
-# Publication Guidelines
+# Thesis Template for the FMI Jena
 
 This template adheres to the following guidelines: [Gestaltungshinweise zu Abschlussarbeiten an der Fakultät für Mathematik und Informatik der Friedrich-Schiller-Universität Jena](https://www.fmi.uni-jena.de/fmi_femedia/5973/gestaltungshinweise-abschlussarbeiten.pdf?nonactive=1&suffix=pdf).
 
