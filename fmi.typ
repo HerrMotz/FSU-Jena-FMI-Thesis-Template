@@ -23,6 +23,8 @@
 
   // The paper size to use.
   paper-size: "a4",
+
+  uni-logo: none,
   
   cover-german: (
     faculty: none, 
@@ -133,7 +135,7 @@
   let cover-page-helper(cover, language-specific-text) = page(align(center + horizon, block(width: 90%)[
         #let v-space = v(2em, weak: true)
   
-        #image("fsulogo.svg", width: 10cm)
+        #uni-logo
         
         #text(3em)[*#title*]
         

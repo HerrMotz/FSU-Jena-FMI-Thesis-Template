@@ -1,4 +1,5 @@
-#import "fsu.typ": *
+//#import "@preview/fmi-jena-thesis:0.1.0": *
+#import "../fmi.typ": *
 #import "@preview/equate:0.2.1": equate
 
 /** RECOMMENDATIONS */
@@ -93,6 +94,7 @@
 #show: fsu.with(
   title: [Title of Your Thesis],
   author: "Your Name",
+  uni-logo: image("fsulogo.svg", width: 10cm),
 
   cover-english: (
     faculty: "Faculty for Mathematics and Computer Science",

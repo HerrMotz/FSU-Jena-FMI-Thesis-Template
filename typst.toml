@@ -1,0 +1,14 @@
+[package]
+name = "fmi-jena-thesis"
+version = "0.1.0"
+entrypoint = "fmi.typ"
+authors = ["Friedrich Answin Daniel Motz"]
+license = "MIT-0"
+description = "Template for thesis' at the Faculty for Mathematics and Computer Sciences at the Friedrich-Schiller-University Jena."
+repository = "https://github.com/HerrMotz/FSU-Jena-FMI-Thesis-Template"
+categories = "thesis"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
