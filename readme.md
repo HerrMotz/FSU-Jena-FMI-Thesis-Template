@@ -2,6 +2,8 @@
 
 This template adheres to the following guidelines: [Gestaltungshinweise zu Abschlussarbeiten an der Fakultät für Mathematik und Informatik der Friedrich-Schiller-Universität Jena](https://www.fmi.uni-jena.de/fmi_femedia/5973/gestaltungshinweise-abschlussarbeiten.pdf?nonactive=1&suffix=pdf).
 
+The main purpose of this template is to create a cover page with all mandatory information, as well as follow the numeration guidelines and so forth. The template in `main.typ` also gives you a head start into your thesis, by recommending packages and a structure. 
+
 > [!WARNING]
 > This theme is **NOT** affiliated with the University of Jena. The logo and the fonts are the property of the University of Jena.
 
@@ -20,6 +22,8 @@ This template adheres to the following guidelines: [Gestaltungshinweise zu Absch
     assessor: assessor,
     place-and-submission-date: "Jena, 1 April 2025",
   ),
+
+  /* cover-german: ( use the same dictionary structure ) */
   
   abstract: [Abstract here],
   
