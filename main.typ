@@ -110,7 +110,7 @@
     Building on this concept, the newly implemented program features a robust, modular Rust backend and a Web frontend. Early testing by digital humanities students with FactGrid demonstrated the program's usefulness.\ #todo[Put your actual abstract here]
   ],
   
-  preface: align(left)[
+  preface: [
     Special thanks go to ... for his contributions to implementing UI features. Your technical skills enriched the practical aspects of this work. 
 
     I owe the programs early public exposure to .... Thank you for testing the early preview of the program in your seminar and for providing crucial support and manpower to accelerate its development.
@@ -235,15 +235,3 @@ In order to #lorem(100)
   )
 )
 
-// TODO: Vielleicht deine Idee noch unterbringen mit den LLMS? Hier wäre auch could in ordnung, da du ja nur einen Vorschlag bringst, mit dem man auch gut die Arbeit abschließen könnte. Vielleicht noch
-// The biggest challenge remains effectively conveying the data model to the end user.
-// An intriguing direction for future development is leveraging neuro-symbolic AI to enhance querying. Rather than relying on direct natural language translations to SPARQL, which often overlook database-specific modeling conventions, Query by Graph would provide more interactive relational suggestions based on a specified users intent. 
-//When a user specifies a variable and an item, the system would analyze the database to retrieve potential relations and, using embeddings or LLM-based semantic search, suggest contextually relevant connections based on the underlying model. This iterative approach would enable users to construct queries step-by-step while staying aligned with the database’s inherent relationships, offering improved accuracy and an intuitive workflow. This would be especially beneficial in fields like digital humanities, where relational nuances are key.
-
-/*
-#todo[Man könnte noch etwas mit LLMs machen, aber das ist jetzt hier glaube ich genug.
-bspw.
-  - "what are possible relations between a variable and an item" und man gibt noch mit was man modellieren will. Im Hintergrund wird abgefragt welche Relationen es gibt und welche davon ähnliche Bedeutungen haben wie das vom Nutzer angefragte. Das könnte man schrittweise für einen ganzen Graphen machen (neuro-symbolic AI :)))
-    - Das wäre besser als einfach nur zu versuchen eine natürlichsprachliche Frage in eine SPARQL query zu übersetzen, weil sich das nicht an den konkret vorhandenen Relationen orientiert.
-]
-*/
