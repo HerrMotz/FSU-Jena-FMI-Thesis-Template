@@ -2,6 +2,9 @@
 
 This template adheres to the following guidelines: [Gestaltungshinweise zu Abschlussarbeiten an der Fakultät für Mathematik und Informatik der Friedrich-Schiller-Universität Jena](https://www.fmi.uni-jena.de/fmi_femedia/5973/gestaltungshinweise-abschlussarbeiten.pdf?nonactive=1&suffix=pdf).
 
+> [!WARNING]
+> This theme is **NOT** affiliated with the University of Jena. The logo and the fonts are the property of the University of Jena.
+
 ```typst
 #show: fsu.with(
   title: [Title of Your Thesis],
